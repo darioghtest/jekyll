@@ -1,7 +1,7 @@
 ---
 author: "darioghtest"
-category: "community"
-date: 2026-11-20T15:46:00.302Z
+categories: ["community"]
+date: 2026-11-20T16:27:47.940Z
 permalink: "/news/paragraph-editor-blocks-test/"
 title: "Every block Paragraph's editor makes"
 ---
